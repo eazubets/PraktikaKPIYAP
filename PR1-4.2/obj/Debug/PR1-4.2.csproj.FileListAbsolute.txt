@@ -1,0 +1,8 @@
+D:\kpiyap\PR1-4.2\bin\Debug\PR1-4.2.exe.config
+D:\kpiyap\PR1-4.2\bin\Debug\PR1-4.2.exe
+D:\kpiyap\PR1-4.2\bin\Debug\PR1-4.2.pdb
+D:\kpiyap\PR1-4.2\obj\Debug\PR1-4.2.csproj.AssemblyReference.cache
+D:\kpiyap\PR1-4.2\obj\Debug\PR1-4.2.csproj.SuggestedBindingRedirects.cache
+D:\kpiyap\PR1-4.2\obj\Debug\PR1-4.2.csproj.CoreCompileInputs.cache
+D:\kpiyap\PR1-4.2\obj\Debug\PR1-4.2.exe
+D:\kpiyap\PR1-4.2\obj\Debug\PR1-4.2.pdb
