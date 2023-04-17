@@ -4,31 +4,33 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PR1_2
+namespace PR1_3
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            // Ввод данных
-            Console.WriteLine("Введите скорость первого автомобиля (V1 км/ч):");
-            double v1 = Convert.ToDouble(Console.ReadLine());
+            // Ввод трехзначного числа
+            Console.WriteLine("Введите трехзначное число:");
+            int number = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Введите скорость второго автомобиля (V2 км/ч):");
-            double v2 = Convert.ToDouble(Console.ReadLine());
+            // Проверка, что число является трехзначным
+            if (number < 100 || number > 999)
+            {
+                Console.WriteLine("Введенное число не является трехзначным.");
+                return;
+            }
 
-            Console.WriteLine("Введите расстояние между автомобилями (S км):");
-            double s = Convert.ToDouble(Console.ReadLine());
+            // Получение цифр числа
+            int hundreds = number / 100;
+            int tens = (number / 10) % 10;
+            int units = number % 10;
 
-            Console.WriteLine("Введите время (T часов):");
-            double t = Convert.ToDouble(Console.ReadLine());
-
-            // Расчет общего пути и расстояния между автомобилями
-            double totalSpeed = v1 + v2;
-            double totalDistance = s + t * totalSpeed;
+            // Перестановка цифр сотен и десятков
+            int newNumber = tens * 100 + hundreds * 10 + units;
 
             // Вывод результата
-            Console.WriteLine("Расстояние между автомобилями через " + t + " часов: " + totalDistance + " км");
+            Console.WriteLine("Число после перестановки цифр сотен и десятков: " + newNumber);
         }
     }
 }
