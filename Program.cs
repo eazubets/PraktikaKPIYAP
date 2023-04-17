@@ -4,33 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PR1_3
+namespace PR1_4
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            // Ввод трехзначного числа
-            Console.WriteLine("Введите трехзначное число:");
-            int number = Convert.ToInt32(Console.ReadLine());
+            // Ввод числа K
+            Console.WriteLine("Введите число K (от 1 до 365):");
+            int k = Convert.ToInt32(Console.ReadLine());
 
-            // Проверка, что число является трехзначным
-            if (number < 100 || number > 999)
-            {
-                Console.WriteLine("Введенное число не является трехзначным.");
-                return;
-            }
-
-            // Получение цифр числа
-            int hundreds = number / 100;
-            int tens = (number / 10) % 10;
-            int units = number % 10;
-
-            // Перестановка цифр сотен и десятков
-            int newNumber = tens * 100 + hundreds * 10 + units;
+            // Определение дня недели
+            int dayOfWeek = (k + 2) % 7; // 1 января было средой, поэтому прибавляем 2 к K
 
             // Вывод результата
-            Console.WriteLine("Число после перестановки цифр сотен и десятков: " + newNumber);
+            Console.WriteLine("Номер дня недели для K-го дня года: " + dayOfWeek);
         }
     }
 }
