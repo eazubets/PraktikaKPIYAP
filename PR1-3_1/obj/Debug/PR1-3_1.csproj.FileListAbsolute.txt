@@ -1,0 +1,8 @@
+D:\kpiyap\PR1-3_1\bin\Debug\PR1-3_1.exe.config
+D:\kpiyap\PR1-3_1\bin\Debug\PR1-3_1.exe
+D:\kpiyap\PR1-3_1\bin\Debug\PR1-3_1.pdb
+D:\kpiyap\PR1-3_1\obj\Debug\PR1-3_1.csproj.AssemblyReference.cache
+D:\kpiyap\PR1-3_1\obj\Debug\PR1-3_1.csproj.SuggestedBindingRedirects.cache
+D:\kpiyap\PR1-3_1\obj\Debug\PR1-3_1.csproj.CoreCompileInputs.cache
+D:\kpiyap\PR1-3_1\obj\Debug\PR1-3_1.exe
+D:\kpiyap\PR1-3_1\obj\Debug\PR1-3_1.pdb
