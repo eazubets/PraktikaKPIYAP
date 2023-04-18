@@ -1,0 +1,11 @@
+D:\kpiyap\PR2_3\PR2_3\bin\Debug\PR2_3.exe.config
+D:\kpiyap\PR2_3\PR2_3\bin\Debug\PR2_3.exe
+D:\kpiyap\PR2_3\PR2_3\bin\Debug\PR2_3.pdb
+D:\kpiyap\PR2_3\PR2_3\obj\Debug\PR2_3.csproj.AssemblyReference.cache
+D:\kpiyap\PR2_3\PR2_3\obj\Debug\PR2_3.csproj.SuggestedBindingRedirects.cache
+D:\kpiyap\PR2_3\PR2_3\obj\Debug\PR2_3.Form1.resources
+D:\kpiyap\PR2_3\PR2_3\obj\Debug\PR2_3.Properties.Resources.resources
+D:\kpiyap\PR2_3\PR2_3\obj\Debug\PR2_3.csproj.GenerateResource.cache
+D:\kpiyap\PR2_3\PR2_3\obj\Debug\PR2_3.csproj.CoreCompileInputs.cache
+D:\kpiyap\PR2_3\PR2_3\obj\Debug\PR2_3.exe
+D:\kpiyap\PR2_3\PR2_3\obj\Debug\PR2_3.pdb
