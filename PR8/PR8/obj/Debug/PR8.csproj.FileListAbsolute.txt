@@ -1,0 +1,11 @@
+D:\kpiyap\PR8\PR8\bin\Debug\PR8.exe.config
+D:\kpiyap\PR8\PR8\bin\Debug\PR8.exe
+D:\kpiyap\PR8\PR8\bin\Debug\PR8.pdb
+D:\kpiyap\PR8\PR8\obj\Debug\PR8.csproj.AssemblyReference.cache
+D:\kpiyap\PR8\PR8\obj\Debug\PR8.csproj.SuggestedBindingRedirects.cache
+D:\kpiyap\PR8\PR8\obj\Debug\PR8.Properties.Resources.resources
+D:\kpiyap\PR8\PR8\obj\Debug\PR8.csproj.GenerateResource.cache
+D:\kpiyap\PR8\PR8\obj\Debug\PR8.csproj.CoreCompileInputs.cache
+D:\kpiyap\PR8\PR8\obj\Debug\PR8.exe
+D:\kpiyap\PR8\PR8\obj\Debug\PR8.pdb
+D:\kpiyap\PR8\PR8\obj\Debug\PR8.Form1.resources
